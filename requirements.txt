@@ -1,0 +1,6 @@
+streamlit-mic-recorder
+SpeechRecognition
+gTTS
+fpdf2
+rapidfuzz
+pydub
